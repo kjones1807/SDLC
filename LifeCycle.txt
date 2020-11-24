@@ -1,5 +1,15 @@
 Software development life cycle definition:
 
-Stages:
+Stages-
+Planning
 
-Methodologies:
+Analysis
+
+Design
+
+Development
+
+
+
+
+Methodologies-
