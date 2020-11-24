@@ -9,7 +9,11 @@ Design
 
 Development
 
+Testing
 
+Implementation
+
+Maintenance 
 
 
 Methodologies-
