@@ -17,3 +17,6 @@ Maintenance
 
 
 Methodologies-
+Waterfall
+Spiral
+Agile
