@@ -1,1 +1,5 @@
+Software development life cycle definition:
 
+Stages:
+
+Methodologies:
